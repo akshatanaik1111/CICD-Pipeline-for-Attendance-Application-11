@@ -46,12 +46,19 @@ Used to securely manage inbound and outbound traffic.
 The project architecture includes:
 
 Uploading Source Code
+
 Creating S3 Artifact Bucket
+
 Creating EC2 Deployment Server
+
 Creating CodePipeline Workflow
+
 Connecting Deployment Stages
+
 Deploying Attendance Application
+
 Automating Deployment Process
+
 Testing CI/CD Pipeline
 
 ---
