@@ -63,6 +63,7 @@ Testing CI/CD Pipeline
 
 ---
 ⚙️ Project Folder Structure
+
 11. CICD Pipeline for Attendance Application/
 │
 ├── app/
@@ -70,11 +71,13 @@ Testing CI/CD Pipeline
 │   ├── static/
 │   ├── app.py
 │   └── requirements.txt
+
 │
 ├── pipeline/
 │   ├── buildspec.yml
 │   ├── appspec.yml
 │   └── deploy.sh
+
 │
 ├── scripts/
 │   ├── install_dependencies.sh
