@@ -79,6 +79,8 @@ Testing CI/CD Pipeline
 
 ---
 ⚙️ Step-by-Step Implementation
+
+
 Step 1: Launch EC2 Instance
 Open AWS Console
 Go to EC2 Dashboard
@@ -88,6 +90,7 @@ Configure Security Group
 Allow:
 HTTP (Port 80)
 SSH (Port 22)
+
 ---
 
 Step 2: Connect to EC2 Instance
